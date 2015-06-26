@@ -4,7 +4,7 @@
 
 //go:generate stringer -type Type
 
-package sql
+package sql // import "sevki.org/g2sd/sql"
 
 import (
 	"fmt"
